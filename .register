@@ -1,16 +1,14 @@
-{
-  packages: [
-    {
-      name: "Core", 
-      url: "https://github.com/smllregistry/Core", 
-      author: "Hexaredecimal". 
-      about: "", 
-    },
-    {
-      name: "Term", 
-      url: "https://github.com/smllregistry/Term", 
-      author: "Hexaredecimal". 
-      about: "", 
-    }
-  ]
-}
+[
+  {
+    "name":"Core",
+    "url":"https://github.com/smllregistry/Core",
+    "author":"Hexaredecimal",
+    "about":""
+  },
+  {
+    "name":"term",
+    "url":"https://github.com/smllregistry/Term",
+    "author":"Hexaredecimal",
+    "about":""
+  }
+]
