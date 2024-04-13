@@ -3,12 +3,12 @@
     "name":"Core",
     "url":"https://github.com/smllregistry/Core",
     "author":"Hexaredecimal",
-    "about":""
+    "about":"System utility functions, for panic, exit, etc"
   },
   {
     "name":"term",
     "url":"https://github.com/smllregistry/Term",
     "author":"Hexaredecimal",
-    "about":""
+    "about":"Ansi escape code library for SMLL, works by wrapping a string in ansi escape"
   }
 ]
