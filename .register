@@ -21,6 +21,13 @@
     "version": "0.2.0"
   }, 
   {
+    "name":"Lang",
+    "url":"https://github.com/smllregistry/Lang",
+    "author":"Hexaredecimal",
+    "about":"Information about SMLL, as a library",
+    "version": "0.1.0"
+  }, 
+  {
     "name":"DateTime",
     "url":"https://github.com/smllregistry/DateTime",
     "author":"Hexaredecimal",
