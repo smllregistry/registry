@@ -7,7 +7,7 @@
     "version": "0.0.1"
   },
   {
-    "name":"term",
+    "name":"Term",
     "url":"https://github.com/smllregistry/Term",
     "author":"Hexaredecimal",
     "about":"Ansi escape code library for SMLL, works by wrapping a string in ansi escape",
