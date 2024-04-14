@@ -12,5 +12,12 @@
     "author":"Hexaredecimal",
     "about":"Ansi escape code library for SMLL, works by wrapping a string in ansi escape",
     "version": "0.0.3"
+  }, 
+  {
+    "name":"MLIo",
+    "url":"https://github.com/smllregistry/MLIo",
+    "author":"Hexaredecimal",
+    "about":"Io functions such as print and println",
+    "version": "0.1.3"
   }
 ]
