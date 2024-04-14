@@ -19,5 +19,12 @@
     "author":"Hexaredecimal",
     "about":"Io functions such as print and println",
     "version": "0.1.3"
-  }
+  }, 
+  {
+    "name":"Math",
+    "url":"https://github.com/smllregistry/Math",
+    "author":"Hexaredecimal",
+    "about":"Mathematical functions",
+    "version": "0.1.1"
+  }, 
 ]
