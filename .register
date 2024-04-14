@@ -14,6 +14,13 @@
     "version": "0.0.3"
   }, 
   {
+    "name":"Adt",
+    "url":"https://github.com/smllregistry/Adt",
+    "author":"Hexaredecimal",
+    "about":"Algebraic data types such as Result, Option, Either, etc",
+    "version": "0.2.0"
+  }, 
+  {
     "name":"DateTime",
     "url":"https://github.com/smllregistry/DateTime",
     "author":"Hexaredecimal",
