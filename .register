@@ -14,6 +14,13 @@
     "version": "0.0.3"
   }, 
   {
+    "name":"DateTime",
+    "url":"https://github.com/smllregistry/DateTime",
+    "author":"Hexaredecimal",
+    "about":"Functions for working with dates and time",
+    "version": "0.0.1"
+  }, 
+  {
     "name":"MLIo",
     "url":"https://github.com/smllregistry/MLIo",
     "author":"Hexaredecimal",
