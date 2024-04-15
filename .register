@@ -12,7 +12,14 @@
     "author":"Hexaredecimal",
     "about":"Ansi escape code library for SMLL, works by wrapping a string in ansi escape",
     "version": "0.0.3"
-  }, 
+  },
+  {
+    "name":"Swing",
+    "url":"https://github.com/smllregistry/Swing",
+    "author":"Hexaredecimal",
+    "about":"Swing gui bindings",
+    "version": "0.0.1"
+  },
   {
     "name":"Adt",
     "url":"https://github.com/smllregistry/Adt",
