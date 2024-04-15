@@ -21,6 +21,13 @@
     "version": "0.0.1"
   },
   {
+    "name":"List",
+    "url":"https://github.com/smllregistry/List",
+    "author":"Hexaredecimal",
+    "about":"List processing functions",
+    "version": "0.0.1"
+  },
+  {
     "name":"Adt",
     "url":"https://github.com/smllregistry/Adt",
     "author":"Hexaredecimal",
