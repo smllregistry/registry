@@ -14,6 +14,13 @@
     "version": "0.0.3"
   },
   {
+    "name":"RaySmll",
+    "url":"https://github.com/smllregistry/RaySmll",
+    "author":"Hexaredecimal",
+    "about":"Bindings for the Raylib game development library",
+    "version": "0.0.1"
+  },
+  {
     "name":"Swing",
     "url":"https://github.com/smllregistry/Swing",
     "author":"Hexaredecimal",
