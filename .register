@@ -21,6 +21,13 @@
     "version": "0.0.1"
   },
   {
+    "name":"Iter",
+    "url":"https://github.com/smllregistry/Iter",
+    "author":"Hexaredecimal",
+    "about":"Iteration functions such as do_while, for_each...",
+    "version": "0.0.1"
+  },
+  {
     "name":"Swing",
     "url":"https://github.com/smllregistry/Swing",
     "author":"Hexaredecimal",
